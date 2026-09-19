@@ -7,13 +7,15 @@ Halo! Saya Nathaniel Widjaya.
 - 🎯 Tujuan tahun ini: Menguasai alur kerja kolaborasi Git & GitHub tingkat lanjut.
 
 ## 🌐 Connect with Me
-- [LinkedIn](TULIS_URL_LINKEDIN_ANDA_DISINI)
-- [Instagram](TULIS_URL_IG_ANDA_DISINI)
-- [Email](mailto:email_anda@domain.com)
+- [LinkedIn](https://www.linkedin.com/in/nathaniel-widjaya-7a3b5a423/)
+- [Instagram](https://www.instagram.com/nathaniel_widjaya/)
+- [Email](mailto:nathaniel.widjaya2008@gmail.com)
+- [Email](mailto:nathaniel.widjaya0808@gmail.com)
+- [Email](mailto:nathaniel.widjaya001@binus.ac.id)
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code, Git Bash
+- **Languages:** HTML, CSS, JavaScript, C, C++, C#, Pascal, Python, Java
+- **Tools:** Git, GitHub, VS Code, Visual Studio 2022, Unity, Git Bash
 
 ## 📊 GitHub Stats
 ![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonokinuKent&show_icons=true&theme=tokyonight)
