@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="TULIS_URL_GAMBAR_BANNER_ANDA_DISINI" alt="Banner Profile" width="100%">
 
-<!--
-**MonokinuKent/MonokinuKent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Details / About Me
+Halo! Saya Nathaniel Widjaya.
+- 🎓 Saat ini sedang belajar di [Nama Kampus/Institusi Anda]
+- 💻 Sedang fokus mendalami pengembangan Front-End web.
+- 🎯 Tujuan tahun ini: Menguasai alur kerja kolaborasi Git & GitHub tingkat lanjut.
 
-Here are some ideas to get you started:
+## 🌐 Connect with Me
+- [LinkedIn](TULIS_URL_LINKEDIN_ANDA_DISINI)
+- [Instagram](TULIS_URL_IG_ANDA_DISINI)
+- [Email](mailto:email_anda@domain.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code, Git Bash
+
+## 📊 GitHub Stats
+![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonokinuKent&show_icons=true&theme=tokyonight)
